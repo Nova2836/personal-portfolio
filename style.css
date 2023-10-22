@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+    animation-fill-mode: forwards;
+    animation-name: example;
+    animation-duration: 5s;
+      }
+      @keyframes example {
+    from {opacity: 0;
+    }
+    to {opacity: 1;
+    }
+      }

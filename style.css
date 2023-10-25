@@ -12,7 +12,7 @@
 }
 #bio {
   background-color: rgb(19, 108, 209);
-  height: 215px;
+  height: auto;
   width: 200px;
   border: 5px solid rgb(70, 138, 194);
   padding: 10px;
@@ -20,7 +20,7 @@
 }
 #contact-info {
   background-color: rgb(19, 108, 209);
-  height: 100px;
+  height: 130px;
   width: 200px;
   border: 5px solid rgb(70, 138, 194);
   padding: 10px;

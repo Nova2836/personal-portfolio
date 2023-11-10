@@ -1,3 +1,9 @@
+const number = document.querySelector(".duck");
+
+function duck() {
+    document.getElementById("duck").style.right = Math.random() * window.innerWidth + 'px';
+    document.getElementById("duck").style.bottom = Math.random() * window.innerWidth + 'px';
+}
 let cube = document.querySelector('.obj');
 let moveBy = 10;
 
